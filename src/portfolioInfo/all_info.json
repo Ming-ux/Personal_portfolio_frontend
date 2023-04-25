@@ -1,0 +1,213 @@
+{
+    "projects":[
+        {
+            "num":"07",
+            "type":["Frontend","UIUX"],
+            "logo":"/img/logoimg/logo_7.jpg",
+            "bigImage":"/img/bigimgs/bigimg_7.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_7-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_7-2.jpg"
+            ],
+            "bigTitle1":"LowCode",
+            "bigTitle2":"在线低代码平台",
+            "simpleTitle":"一个支持快速搭建简单页面的，具备设计、预览、发布的在线低代码平台。",
+            "createdTime":"2022.07-2022.09",
+            "isTeam":true,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorIndex": 1,
+                    "commentContent": "支持一下~~",
+                    "commentTime":"Sat Apr 22 2023 15:32:15 GMT+0800 (中国标准时间)"
+                },
+                {
+                    "avatorindex": 2,
+                    "commentcontent": "蛮有意思的",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+            ]
+
+        },
+        {
+            "num":"06",
+            "type":["UIUX"],
+            "logo":"/img/logoimg/logo_6.jpg",
+            "bigImage":"/img/bigimgs/bigimg_6.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_6-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_6-3.gif",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_6-2.jpg"
+                
+            ],
+            "bigTitle1":"Geniex",
+            "bigTitle2":"传音虚拟运行商app",
+            "simpleTitle":"面向非洲提供无限制4G网络连接服务的流量app。",
+            "createdTime":"2021.07-2021.09",
+            "isTeam":false,
+            "isIntern":true,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "小姑娘的实习内容~~",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        },   
+        {
+            "num":"05",
+            "type":["UIUX"],
+            "logo":"/img/logoimg/logo_5.jpg",
+            "bigImage":"/img/bigimgs/bigimg_5.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_5-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_5-2.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_5-3.jpg"
+                
+            ],
+            "bigTitle1":"KnewBee",
+            "bigTitle2":"知蜂app",
+            "simpleTitle":"面向养蜂人群的科学养蜂追蜂管理应用。",
+            "createdTime":"2021.06-2021.07",
+            "isTeam":false,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "本科课程作业，去了莲花山的养蜂场调研！",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        },
+        {
+            "num":"04",
+            "type":["UIUX"],
+            "logo":"/img/logoimg/logo_4.jpg",
+            "bigImage":"/img/bigimgs/bigimg_4.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_4-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_4-2.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_4-3.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_4-4.jpg"
+                
+            ],
+            "bigTitle1":"手心志",
+            "bigTitle2":"手语学习app",
+            "simpleTitle":"在线手语学习应用",
+            "createdTime":"2021.06-2021.07",
+            "isTeam":false,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "与电信学院的课题合作，电信学院提供手语图像识别技术，设计同学对应提出产品构思。",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        },
+        {
+            "num":"03",
+            "type":["product"],
+            "logo":"/img/logoimg/logo_3.jpg",
+            "bigImage":"/img/bigimgs/bigimg_3.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_3-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_3-2.jpg"
+
+                
+            ],
+            "bigTitle1":"FOCUS·K",
+            "bigTitle2":"外卖骑手的智能头盔",
+            "simpleTitle":"辅助外卖骑手安全驾驶的智能头盔。",
+            "createdTime":"2021.01-2021.06",
+            "isTeam":false,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "本科的毕业设计！算是给本科的工业设计实体产品梦画上圆满的句号！",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        },
+        {
+            "num":"02",
+            "type":["Branding&Graphic"],
+            "logo":"/img/logoimg/logo_2.jpg",
+            "bigImage":"/img/bigimgs/bigimg_2.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_2-1.jpg",
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_2-2.jpg"
+
+                
+            ],
+            "bigTitle1":"APHRODY",
+            "bigTitle2":"香薰品牌设计",
+            "simpleTitle":"家庭创业香薰品牌设计",
+            "createdTime":"2020.10-2021.02",
+            "isTeam":false,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "家族成员的创业产品，设计了基于西方维纳斯美神的香薰品牌。",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        },
+        {
+            "num":"01",
+            "type":["Branding&Graphic"],
+            "logo":"/img/logoimg/logo_1.jpg",
+            "bigImage":"/img/bigimgs/bigimg_1.jpg",
+            "longImages":[
+                "https://mingportfolioimages.s3.ap-southeast-1.amazonaws.com/longimg_1-1.jpg"
+
+                
+            ],
+            "bigTitle1":"华工百步梯",
+            "bigTitle2":"视觉设计部作品汇总",
+            "simpleTitle":"本科学生社团时期的作品，都已经实际应用于学生各大活动中。",
+            "createdTime":"2020.07-2022.09",
+            "isTeam":false,
+            "isIntern":false,
+            "like":1,
+            "seen": 1,
+            "comments": [
+                {
+                    "avatorindex": 1,
+                    "commentcontent": "百步梯是个神奇的存在，怀念",
+                    "commentime":"Sat Apr 22 2023 15:24:15 GMT+0800 (中国标准时间)"
+                }
+
+            ]
+
+        }
+
+        
+
+    ]
+
+}

@@ -1,0 +1,47 @@
+{   "language__theme":"en",
+    "about":"AboutMe",
+    "skills":"Skills",
+    "portfolio":"Portfolio",
+    "qualification":"Qualification",
+    "allportfolio":"View all projects",
+    "contact":"ContactMe",
+    "home__title":"Hi,I am Ming,",
+    "home__subtitle":"A constantly learning front-end engineer. ",
+    "home__description":"Welcome to my personal page! \n- If you like my website, send me a little red heart ❤️! \n- You can click the github icon to view my past projects, or click the book icon to view my study notes. \n- Click the shining button below to view all my projects, leave a positive message and like it！",
+
+    "portfolio__title":"Recent projects",
+    "portfolio__subtitle":"Click to view details.",
+    "allportfolio__title":"All projects",
+    "allportfolio__subtitle":"Click to view details.",
+
+    "skills__title":"Skills",
+    "skills__subtitle":"Development-related skills",
+    "skills__title1":"Front-end",
+    "skills__years1":"10 months experience",
+    "skills__title2":"Back-end",
+    "skills__years2":"1 month experience",
+    "skills__title3":"Design",
+    "skills__years3":"5 year experience",
+
+    "qualification__title":"Education & Internship",
+    "qualification__subtitle":"Educational experience and internship experience",
+    "education":"Education",
+    "work":"Internship",
+    "qualification1__school":"Zhejiang University",
+    "qualification1__college":"Computer Science and Technology College",
+    "qualification1__major": "Master's degree - Mechanical (Industrial Engineering)",
+    "qualification1__school2": "South China University of Technology",
+    "qualification1__college2": "Design College",
+    "qualification1__major2": "Undergraduate - Industrial Design (Engineering)",
+    "qualification1__compony": "Transsion",
+    "qualification1__department": "User Experience Department",
+    "qualification1__job": "Internship - UI Designer",
+
+    "contact__title":"Ming",
+    "Wechat__name":"Wechat: ",
+    "Wechat":"aXMing_",
+    "Email":"lyminghui0605@163.com",
+    "Email__name":"Email: "
+
+    
+}

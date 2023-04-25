@@ -1,0 +1,47 @@
+{   "language__theme":"cn",
+    "about":"关于我",
+    "skills":"技能",
+    "portfolio":"最新项目",
+    "qualification":"教育与工作",
+    "allportfolio":"查看她的全部作品",
+    "contact":"联系方式",
+    "home__title":"你好,我是明Ming,",
+    "home__subtitle":"一名不断学习的前端工程师 ",
+    "home__description":"欢迎你来到我的个人作品网页！\n- 喜欢我的网站就点个小红心❤️吧！\n- 你可以点击我的github查看过往项目，也可以点击“小书本”查看我的学习笔记。\n- 点击下方流光按钮查看我的全部项目，积极留言点赞吧！",
+
+    "portfolio__title":"最近项目",
+    "portfolio__subtitle":"最近的项目，点击即可查看详情",
+    "allportfolio__title":"所有项目",
+    "allportfolio__subtitle":"所有项目，点击即可查看详情",
+
+    "skills__title":"技能",
+    "skills__subtitle":"与开发相关的技能",
+    "skills__title1":"前端开发",
+    "skills__years1":"10个月经验",
+    "skills__title2":"后端开发",
+    "skills__years2":"1个月经验",
+    "skills__title3":"设计",
+    "skills__years3":"5年经验",
+
+    "qualification__title":"教育与工作经历",
+    "qualification__subtitle":"个人履历",
+    "education":"教育",
+    "work":"工作",
+    "qualification1__school":"浙江大学",
+    "qualification1__college":"计算机科学与技术学院",
+    "qualification1__major":"硕士在读-机械(工业工程方向)",
+    "qualification1__school2":"华南理工大学",
+    "qualification1__college2":"设计学院",
+    "qualification1__major2":"本科-工业设计(工学)",
+    "qualification1__compony":"深圳传音控股",
+    "qualification1__department":"用户体验部门",
+    "qualification1__job":"实习-UI设计师",
+
+    "contact__title":"Ming",
+    "Wechat__name":"微信号: ",
+    "Wechat":"aXMing_",
+    "Email":"lyminghui0605@163.com",
+    "Email__name":"邮箱: "
+
+    
+}
